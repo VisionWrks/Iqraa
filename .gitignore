@@ -1,0 +1,8 @@
+.venv/*
+*.txt
+*/.venv/*
+*.pyc
+*.bin
+*.model
+*.vocab
+*.png
