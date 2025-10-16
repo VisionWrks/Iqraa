@@ -112,6 +112,6 @@ Next milestones include:
 
 ## 📎 Authors & Contributions
 Developed by **Taleb Elm**.  
-Contributions are welcome as the project evolves.
+Contributions are welcome as the project evolves. Thanks!
 
 ---
